@@ -14,5 +14,7 @@ Graduate student at department of physics, KAIST (M.S and Ph.D integrated progra
 
 ## Research
 
-Theoretical particle physics. Here at [KAIST PTG](.https://sites.google.com/view/kaist-ptg).
+Theoretical particle physics.
+
+Especially about beyond Standard model theories.
 
